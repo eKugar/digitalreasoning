@@ -32,18 +32,22 @@ output an XML representation of your Java object model.
 
 ###Project
 
-task1
+Task1
 
 
 ###to run:
 
-dr.nlp.task1.NlpProcessor.java
+Task1/src/dr/nlp/task1/NlpProcessor.java
 
 
 ###output file:
 
-nlp_data.xml
+Task1/nlp_data.xml
 
+
+###test suite:
+
+Task1/test/dr/nlp/task1/TestSuite.java
 
 
 ##Part Two
@@ -56,17 +60,22 @@ schema to store information about which portions of the text represent named ent
 
 ###Project
 
-task2
+Task2
 
 
 ###to run:
 
-dr.nlp.task2.NlpProcessor.java
+Task2/src/dr/nlp/task2/NlpProcessor.java
 
 
 ###output file:
 
-nlp_data2.xml
+Task2/nlp_data2.xml
+
+
+###test suite:
+
+Task2/test/dr/nlp/task2/TestSuite.java
 
 
 ##Part Three
@@ -78,17 +87,23 @@ and modify the output schema accordingly.
 
 ###Project
 
-task3
+Task3
 
 
 ###to run:
 
-dr.nlp.task3.NlpProcessor.java
+Task3/src/dr/nlp/task3/NlpProcessor.java
 
 
 ###output file:
 
-nlp_data3.xml
+Task3/nlp_data3.xml
+
+
+###test suite:
+
+Task3/test/dr/nlp/task3/TestSuite.java
+
 
 
 ##Author:
