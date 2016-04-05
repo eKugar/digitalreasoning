@@ -13,8 +13,11 @@
 
 
 ## Known Issues 
-- Known matching issues: Broyden-Fletcher-Goldfarb-Shanno was not able to fix because of time constraints
-- Not enough testing was done
+- Need to add more tests 
+- Need to add more comments
+- Better error handling is required
+- Known matching issue: Broyden-Fletcher-Goldfarb-Shanno named entity was not working.  Not able to fix because of time constraints.
+- Search for named entities needs to be improved to handle multiple word named entities better.   Right now, if the whitespace or some other character between words does not match the string entirely it is not considered a full match.
 
 
 
