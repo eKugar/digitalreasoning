@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NlpDocument SourceFileName=".\nlp_data.txt">
+	<Sentence>
+		<TokenWord NamedEntityMatch="NO">The</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">term</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenPunctuation NamedEntityMatch="NO">"</TokenPunctuation>
+		<TokenWord NamedEntityMatch="NO">First</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">World</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">War</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">"</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">was</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">first</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">used</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">in</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">September</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenNumeric NamedEntityMatch="NO">1914</TokenNumeric>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">by</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">German</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">philosopher</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Ernst</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="FULL"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Haeckel</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">,</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">who</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">claimed</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">that</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenPunctuation NamedEntityMatch="NO">"</TokenPunctuation>
+		<TokenWord NamedEntityMatch="NO">there</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">is</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">no</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">doubt</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">that</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">course</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">and</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">character</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">of</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">feared</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenPunctuation NamedEntityMatch="NO">'</TokenPunctuation>
+		<TokenWord NamedEntityMatch="NO">European</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">War</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">'</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">will</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">become</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">first</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">world</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">war</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">in</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">full</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">sense</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">of</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">word</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+		<TokenPunctuation NamedEntityMatch="NO">"</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO">
+</TokenWhiteSpace>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace NamedEntityMatch="NO">
+</TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">Why</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">did</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">war</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">begin</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">?</TokenPunctuation>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">The</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">immediate</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">trigger</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">for</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">war</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">was</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenNumeric NamedEntityMatch="NO">28</TokenNumeric>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">June</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenNumeric NamedEntityMatch="NO">1914</TokenNumeric>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">assassination</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">of</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">Archduke</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Franz</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="FULL"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Ferdinand</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">of</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">Austria</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">,</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">heir</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">to</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">throne</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">of</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">Austria</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">-</TokenPunctuation>
+		<TokenWord NamedEntityMatch="PARTIAL">Hungary</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">,</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">by</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">Yugoslav</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">nationalist</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Gavrilo</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="FULL"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Princip</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenPunctuation NamedEntityMatch="NO">(</TokenPunctuation>
+		<TokenNumeric NamedEntityMatch="NO">19</TokenNumeric>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">years</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">old</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">at</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">time</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">)</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">in</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Sarajevo</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">This</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">set</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">off</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">a</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">diplomatic</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">crisis</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">when</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Austria</TokenWord>
+		<TokenPunctuation NamedEntityMatch="FULL">-</TokenPunctuation>
+		<TokenWord NamedEntityMatch="FULL">Hungary</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">delivered</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">an</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">ultimatum</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">to</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">Kingdom</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="PARTIAL">of</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="FULL">Serbia</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">,</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">and</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">entangled</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">international</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">alliances</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">formed</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">over</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">previous</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">decades</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">were</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">invoked</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">Within</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">weeks</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">,</TokenPunctuation>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">major</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">powers</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">were</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">at</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">war</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">and</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">conflict</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">soon</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">spread</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">around</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">the</TokenWord>
+		<TokenWhiteSpace NamedEntityMatch="NO"> </TokenWhiteSpace>
+		<TokenWord NamedEntityMatch="NO">world</TokenWord>
+		<TokenPunctuation NamedEntityMatch="NO">.</TokenPunctuation>
+	</Sentence>
+	<matches>
+		<match>Ernst Haeckel</match>
+		<match>Austria-Hungary</match>
+		<match>Franz Ferdinand</match>
+		<match>Gavrilo Princip</match>
+		<match>Serbia</match>
+		<match>Sarajevo</match>
+	</matches>
+	<partialMatches>
+		<partialMatch>Ferdinand</partialMatch>
+		<partialMatch>Austria</partialMatch>
+		<partialMatch>Gavrilo</partialMatch>
+		<partialMatch>Ernst</partialMatch>
+		<partialMatch>Hungary</partialMatch>
+		<partialMatch>Princip</partialMatch>
+		<partialMatch>of</partialMatch>
+		<partialMatch>Franz</partialMatch>
+		<partialMatch>Haeckel</partialMatch>
+	</partialMatches>
+</NlpDocument>

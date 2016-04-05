@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NlpDocument SourceFileName=".\nlp_data.txt">
+	<Sentence>
+		<TokenWord>The</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>term</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenPunctuation>"</TokenPunctuation>
+		<TokenWord>First</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>World</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>War</TokenWord>
+		<TokenPunctuation>"</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>was</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>first</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>used</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>in</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>September</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenNumeric>1914</TokenNumeric>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>by</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>German</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>philosopher</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Ernst</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Haeckel</TokenWord>
+		<TokenPunctuation>,</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>who</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>claimed</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>that</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenPunctuation>"</TokenPunctuation>
+		<TokenWord>there</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>is</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>no</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>doubt</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>that</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>course</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>and</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>character</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>of</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>feared</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenPunctuation>'</TokenPunctuation>
+		<TokenWord>European</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>War</TokenWord>
+		<TokenPunctuation>'</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenPunctuation>.</TokenPunctuation>
+		<TokenPunctuation>.</TokenPunctuation>
+		<TokenPunctuation>.</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>will</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>become</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>first</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>world</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>war</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>in</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>full</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>sense</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>of</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>word</TokenWord>
+		<TokenPunctuation>.</TokenPunctuation>
+		<TokenPunctuation>"</TokenPunctuation>
+		<TokenWhiteSpace>
+</TokenWhiteSpace>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace>
+</TokenWhiteSpace>
+		<TokenWord>Why</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>did</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>war</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>begin</TokenWord>
+		<TokenPunctuation>?</TokenPunctuation>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>The</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>immediate</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>trigger</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>for</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>war</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>was</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenNumeric>28</TokenNumeric>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>June</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenNumeric>1914</TokenNumeric>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>assassination</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>of</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Archduke</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Franz</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Ferdinand</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>of</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Austria</TokenWord>
+		<TokenPunctuation>,</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>heir</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>to</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>throne</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>of</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Austria</TokenWord>
+		<TokenPunctuation>-</TokenPunctuation>
+		<TokenWord>Hungary</TokenWord>
+		<TokenPunctuation>,</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>by</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Yugoslav</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>nationalist</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Gavrilo</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Princip</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenPunctuation>(</TokenPunctuation>
+		<TokenNumeric>19</TokenNumeric>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>years</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>old</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>at</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>time</TokenWord>
+		<TokenPunctuation>)</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>in</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Sarajevo</TokenWord>
+		<TokenPunctuation>.</TokenPunctuation>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>This</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>set</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>off</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>a</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>diplomatic</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>crisis</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>when</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Austria</TokenWord>
+		<TokenPunctuation>-</TokenPunctuation>
+		<TokenWord>Hungary</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>delivered</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>an</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>ultimatum</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>to</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Kingdom</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>of</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Serbia</TokenWord>
+		<TokenPunctuation>,</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>and</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>entangled</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>international</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>alliances</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>formed</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>over</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>previous</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>decades</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>were</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>invoked</TokenWord>
+		<TokenPunctuation>.</TokenPunctuation>
+	</Sentence>
+	<Sentence>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>Within</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>weeks</TokenWord>
+		<TokenPunctuation>,</TokenPunctuation>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>major</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>powers</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>were</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>at</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>war</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>and</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>conflict</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>soon</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>spread</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>around</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>the</TokenWord>
+		<TokenWhiteSpace> </TokenWhiteSpace>
+		<TokenWord>world</TokenWord>
+		<TokenPunctuation>.</TokenPunctuation>
+	</Sentence>
+</NlpDocument>
