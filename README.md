@@ -1,14 +1,21 @@
 
 #Digital Reasoning Exercise
 
+##Using
+- Java 8 (default methods in interface)
+- JUnit 4 for testing
+- IntelliJ
+
+
 ##General Assumptions
--Assuming input files are relatively small.
+- Assuming input files are relatively small.
+- We will not run into memory issues.
 
--We will not run into memory issues.
 
--Better matching is possible 
+## Known Issues 
+- Known matching issues: Broyden-Fletcher-Goldfarb-Shanno was not able to fix because of time constraints
+- Not enough testing was done
 
--Using Java 8 and JUnit for testing
 
 
 ##Part One
