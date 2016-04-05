@@ -88,3 +88,5 @@ dr.nlp.task3.NlpProcessor.java
 nlp_data3.xml
 
 
+##Author:
+#####Dmitry Kozinets
