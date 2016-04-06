@@ -3,11 +3,10 @@ package dr.nlp.task2;
 import java.nio.file.Paths;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.StringTokenizer;
 
 /**
  * Created by Dmitry Kozinets on 4/4/2016.
- *
+ * <p>
  * Singleton class to hold Named Entities
  */
 public enum NamedEntities
@@ -38,10 +37,9 @@ public enum NamedEntities
 		this.partialNamedEntities = new HashSet<>();
 		for( String namedEntity : this.namedEntities )
 		{
-			StringTokenizer tokenizer = new StringTokenizer( namedEntity, " -_\t\n\r\f" );
-			while( tokenizer.hasMoreTokens() )
+			String[] tokens = namedEntity.split( "\\W" );
+			for( String token : tokens )
 			{
-				String token = tokenizer.nextToken();
 				this.partialNamedEntities.add( token );
 			}
 		}
